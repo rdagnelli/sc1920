@@ -1,0 +1,1015 @@
+Participant;Timestamp;Activity;Valence;Arousal;Dominance;Progress;Status;Notes
+p5;1568010991;;;;;;POPUP_OPENED;
+p5;1568011046;Just arrived;2;2;5;Average;POPUP_CLOSED;traffic congestion
+p5;1568014737;;;;;;POPUP_OPENED;
+p5;1568014773;Learning;4;3;4;Average;POPUP_CLOSED;
+p5;1568018378;;;;;;POPUP_OPENED;
+p5;1568018425;Design;4;3;3;Average;POPUP_CLOSED;
+p5;1568022029;;;;;;POPUP_OPENED;
+p5;1568022065;Design;4;4;4;Average;POPUP_CLOSED;
+p5;1568025671;;;;;;POPUP_OPENED;
+p5;1568025704;Testing;3;4;4;Above average;POPUP_CLOSED;
+p5;1568029307;;;;;;POPUP_OPENED;
+p5;1568029332;Design;4;4;4;Average;POPUP_CLOSED;
+p5;1568033541;;;;;;POPUP_OPENED;
+p5;1568033556;Testing;5;4;5;Above average;POPUP_CLOSED;
+p5;1568037161;;;;;;POPUP_OPENED;
+p5;1568037182;Email;4;4;5;Above average;POPUP_CLOSED;
+p5;1568096891;;;;;;POPUP_OPENED;
+p5;1568096915;Just arrived;3;2;4;Average;POPUP_CLOSED;
+p5;1568098376;;;;;;POPUP_OPENED;
+p5;1568098390;Meeting;4;3;4;Above average;POPUP_CLOSED;
+p5;1568098967;;;;;;POPUP_OPENED;
+p5;1568099001;Testing;3;3;3;Average;POPUP_CLOSED;
+p5;1568104066;;;;;;POPUP_OPENED;
+p5;1568104113;Coding;4;3;4;Above average;POPUP_CLOSED;
+p5;1568107716;;;;;;POPUP_OPENED;
+p5;1568107745;Design;4;4;4;Average;POPUP_CLOSED;
+p5;1568113147;;;;;;POPUP_OPENED;
+p5;1568113167;Meeting;4;4;4;Above average;POPUP_CLOSED;
+p5;1568116783;;;;;;POPUP_OPENED;
+p5;1568116802;Testing;5;4;5;Above average;POPUP_CLOSED;
+p5;1568120756;;;;;;POPUP_OPENED;
+p5;1568120783;Meeting;3;3;4;Average;POPUP_CLOSED;
+p5;1568126256;;;;;;POPUP_OPENED;
+p5;1568126300;Just arrived;4;3;4;Average;POPUP_CLOSED;
+p5;1568182746;;;;;;POPUP_OPENED;
+p5;1568182768;Just arrived;3;2;5;Average;POPUP_CLOSED;
+p5;1568187647;;;;;;POPUP_OPENED;
+p5;1568187664;Coding;5;4;5;Average;POPUP_CLOSED;
+p5;1568191423;;;;;;POPUP_OPENED;
+p5;1568191438;Coding;4;3;5;Very high;POPUP_CLOSED;
+p5;1568195474;;;;;;POPUP_OPENED;
+p5;1568195500;Bugfixing;3;2;5;Average;POPUP_CLOSED;
+p5;1568199105;;;;;;POPUP_OPENED;
+p5;1568199148;Bugfixing;4;2;4;Above average;POPUP_CLOSED;
+p5;1568202751;;;;;;POPUP_OPENED;
+p5;1568202767;Coding;4;5;4;Above average;POPUP_CLOSED;
+p5;1568206645;;;;;;POPUP_OPENED;
+p5;1568206695;Design;5;4;5;Average;POPUP_CLOSED;
+p5;1568355821;;;;;;POPUP_OPENED;
+p5;1568355839;Just arrived;4;3;4;Average;POPUP_CLOSED;
+p5;1568360120;;;;;;POPUP_OPENED;
+p5;1568360157;Bugfixing;4;3;4;Average;POPUP_CLOSED;
+p5;1568370465;;;;;;POPUP_OPENED;
+p5;1568370480;Just arrived;5;2;4;Below average;POPUP_CLOSED;
+p5;1568374653;;;;;;POPUP_OPENED;
+p5;1568374679;Meeting;5;4;4;Below average;POPUP_CLOSED;
+p5;1568379170;;;;;;POPUP_OPENED;
+p5;1568379185;Meeting;4;5;4;Average;POPUP_CLOSED;
+p5;1568382787;;;;;;POPUP_OPENED;
+p5;1568382835;Design;4;4;4;Average;POPUP_CLOSED;
+p5;1568615502;;;;;;POPUP_OPENED;
+p5;1568616181;Administrative tasks;3;4;3;Below average;POPUP_CLOSED;
+p5;1568620651;;;;;;POPUP_OPENED;
+p5;1568620730;Meeting;5;3;4;Average;POPUP_CLOSED;talking to collegues informal brainstorm
+p5;1568624333;;;;;;POPUP_OPENED;
+p5;1568624364;Coding;4;3;3;Above average;POPUP_CLOSED;
+p5;1568627968;;;;;;POPUP_OPENED;
+p5;1568627989;Coding;4;4;5;Above average;POPUP_CLOSED;
+p5;1568631594;;;;;;POPUP_OPENED;
+p5;1568631613;Coding;4;2;5;Average;POPUP_CLOSED;
+p5;1568635218;;;;;;POPUP_OPENED;
+p5;1568635237;Coding;4;3;4;Below average;POPUP_CLOSED;
+p5;1568640094;;;;;;POPUP_OPENED;
+p5;1568640115;Email;4;4;5;Below average;POPUP_CLOSED;
+p5;1568643718;;;;;;POPUP_OPENED;
+p5;1568643746;Coding;4;4;4;Above average;POPUP_CLOSED;
+p5;1568706062;;;;;;POPUP_OPENED;
+p5;1568706174;Just arrived;4;2;4;Below average;POPUP_CLOSED;I m at home working partly and taking care of my 1 year old child. She is sleeping.
+p5;1568708556;;;;;;POPUP_OPENED;
+p5;1568708571;Coding;4;4;2;Above average;POPUP_CLOSED;
+p5;1568711788;;;;;;POPUP_OPENED;
+p5;1568711818;Other;4;4;4;Above average;POPUP_CLOSED;Stopped working
+p5;1568720402;;;;;;POPUP_OPENED;
+p5;1568724777;Just arrived;3;4;4;Average;POPUP_CLOSED;Kid in bed. Start working again.
+p5;1568728380;;;;;;POPUP_OPENED;
+p5;1568728391;Coding;5;2;5;Above average;POPUP_CLOSED;
+p5;1568788986;;;;;;POPUP_OPENED;
+p5;1568789002;Administrative tasks;3;3;4;Below average;POPUP_CLOSED;
+p5;1568792605;;;;;;POPUP_OPENED;
+p5;1568792629;Design;4;3;4;Below average;POPUP_CLOSED;
+p5;1568796388;;;;;;POPUP_OPENED;
+p5;1568796402;Coding;4;3;4;Above average;POPUP_CLOSED;
+p5;1568800019;;;;;;POPUP_OPENED;
+p5;1568800068;Coding;4;4;4;Below average;POPUP_CLOSED;
+p5;1568805846;;;;;;POPUP_OPENED;
+p5;1568805862;Meeting;4;5;4;Average;POPUP_CLOSED;
+p5;1568809508;;;;;;POPUP_OPENED;
+p5;1568809542;Design;4;5;4;Below average;POPUP_CLOSED;
+p5;1568813177;;;;;;POPUP_OPENED;
+p5;1568813187;Coding;4;3;5;Above average;POPUP_CLOSED;
+p5;1568817146;;;;;;POPUP_OPENED;
+p5;1568817159;Coding;4;5;4;Above average;POPUP_CLOSED;
+p6;1568009796;;;;;;POPUP_OPENED;
+p6;1568009865;Just arrived;3;4;3;Average;POPUP_CLOSED;Setting up device and getting started
+p6;1568013493;;;;;;POPUP_OPENED;
+p6;1568013559;Email;3;2;4;Average;POPUP_CLOSED;
+p6;1568017176;;;;;;POPUP_OPENED;
+p6;1568017253;Testing;4;3;4;Average;POPUP_CLOSED;
+p6;1568021350;;;;;;POPUP_OPENED;
+p6;1568021438;Testing;3;3;3;Average;POPUP_CLOSED;
+p6;1568025120;;;;;;POPUP_OPENED;
+p6;1568025198;Networking;4;3;4;Average;POPUP_CLOSED;Lunch/Walking with colleagues
+p6;1568028870;;;;;;POPUP_OPENED;
+p6;1568029018;Administrative tasks;3;3;3;Average;POPUP_CLOSED;preparing for meeting
+p6;1568037362;;;;;;POPUP_OPENED;
+p6;1568037407;Meeting;4;4;3;Average;POPUP_CLOSED;Meeting just finished
+p6;1568096122;;;;;;POPUP_OPENED;
+p6;1568096133;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568099739;;;;;;POPUP_OPENED;
+p6;1568099805;Bugfixing;4;3;4;Average;POPUP_CLOSED;
+p6;1568103650;;;;;;POPUP_OPENED;
+p6;1568103680;Testing;4;3;4;Average;POPUP_CLOSED;
+p6;1568107537;;;;;;POPUP_OPENED;
+p6;1568107575;Testing;4;3;4;Average;POPUP_CLOSED;
+p6;1568111744;;;;;;POPUP_OPENED;
+p6;1568111792;Other;4;4;4;Average;POPUP_CLOSED;Just finished our daily walk during lunch
+p6;1568117090;;;;;;POPUP_OPENED;
+p6;1568117110;Helping;4;4;4;Above average;POPUP_CLOSED;
+p6;1568121220;;;;;;POPUP_OPENED;
+p6;1568121267;Bugfixing;4;4;3;Above average;POPUP_CLOSED;
+p6;1568125300;;;;;;POPUP_OPENED;
+p6;1568125322;Networking;4;4;3;Average;POPUP_CLOSED;
+p6;1568181706;;;;;;POPUP_OPENED;
+p6;1568181718;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568187971;;;;;;POPUP_OPENED;
+p6;1568188034;Coding;4;4;3;Average;POPUP_CLOSED;Coding and discussion during a meeting
+p6;1568191645;;;;;;POPUP_OPENED;
+p6;1568191668;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568195281;;;;;;POPUP_OPENED;
+p6;1568195350;Coding;3;3;3;Below average;POPUP_CLOSED;
+p6;1568199297;;;;;;POPUP_OPENED;
+p6;1568199330;Coding;4;3;3;Above average;POPUP_CLOSED;
+p6;1568202960;;;;;;POPUP_OPENED;
+p6;1568202984;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568206758;;;;;;POPUP_OPENED;
+p6;1568206775;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568210744;;;;;;POPUP_OPENED;
+p6;1568210832;Coding;3;4;3;Above average;POPUP_CLOSED;
+p6;1568268626;;;;;;POPUP_OPENED;
+p6;1568268638;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568272724;;;;;;POPUP_OPENED;
+p6;1568272906;Coding;4;4;3;Average;POPUP_CLOSED;
+p6;1568276709;;;;;;POPUP_OPENED;
+p6;1568276797;Bugfixing;3;4;3;Above average;POPUP_CLOSED;Bugfixing with colleague at same desk
+p6;1568280453;;;;;;POPUP_OPENED;
+p6;1568281563;Coding;4;3;3;Average;POPUP_CLOSED;
+p6;1568285664;;;;;;POPUP_OPENED;
+p6;1568285690;Coding;4;3;3;Above average;POPUP_CLOSED;
+p6;1568289662;;;;;;POPUP_OPENED;
+p6;1568289749;Coding;3;1;3;Below average;POPUP_CLOSED;a little bit sleepy
+p6;1568293651;;;;;;POPUP_OPENED;
+p6;1568293696;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568297305;;;;;;POPUP_OPENED;
+p6;1568297344;Coding;4;4;4;Above average;POPUP_CLOSED;
+p6;1568355147;;;;;;POPUP_OPENED;
+p6;1568355174;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568358852;;;;;;POPUP_OPENED;
+p6;1568358974;Coding;4;3;3;Average;POPUP_CLOSED;
+p6;1568362778;;;;;;POPUP_OPENED;
+p6;1568362809;Coding;4;4;4;Above average;POPUP_CLOSED;
+p6;1568366415;;;;;;POPUP_OPENED;
+p6;1568366464;Documentation;4;3;4;Above average;POPUP_CLOSED;
+p6;1568371152;;;;;;POPUP_OPENED;
+p6;1568371189;Other;4;4;4;Average;POPUP_CLOSED;Back from a walk with colleagues
+p6;1568376043;;;;;;POPUP_OPENED;
+p6;1568376060;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568379761;;;;;;POPUP_OPENED;
+p6;1568379850;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568383730;;;;;;POPUP_OPENED;
+p6;1568383762;Coding;4;3;3;Average;POPUP_CLOSED;
+p6;1568614586;;;;;;POPUP_OPENED;
+p6;1568614622;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568618438;;;;;;POPUP_OPENED;
+p6;1568618458;Email;3;3;3;Above average;POPUP_CLOSED;
+p6;1568622075;;;;;;POPUP_OPENED;
+p6;1568622315;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568625929;;;;;;POPUP_OPENED;
+p6;1568626014;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568630046;;;;;;POPUP_OPENED;
+p6;1568630082;Other;3;2;3;Average;POPUP_CLOSED;just got back from walk
+p6;1568634330;;;;;;POPUP_OPENED;
+p6;1568634383;Coding;3;3;3;Below average;POPUP_CLOSED; Less productive stuck at code
+p6;1568638009;;;;;;POPUP_OPENED;
+p6;1568638028;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568641684;;;;;;POPUP_OPENED;
+p6;1568641722;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568701117;;;;;;POPUP_OPENED;
+p6;1568701132;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568704743;;;;;;POPUP_OPENED;
+p6;1568704786;Coding;3;3;3;Above average;POPUP_CLOSED;Coding + networking
+p6;1568708676;;;;;;POPUP_OPENED;
+p6;1568708764;Email;3;3;3;Average;POPUP_CLOSED; Currently mailing but mostly coding.
+p6;1568712367;;;;;;POPUP_OPENED;
+p6;1568712381;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568716768;;;;;;POPUP_OPENED;
+p6;1568716786;Other;3;3;3;Average;POPUP_CLOSED;Back from walk
+p6;1568720424;;;;;;POPUP_OPENED;
+p6;1568720445;Coding;3;2;3;Below average;POPUP_CLOSED;
+p6;1568727054;;;;;;POPUP_OPENED;
+p6;1568727184;Coding;4;4;3;Above average;POPUP_CLOSED;Just finished coding with colleague
+p6;1568787395;;;;;;POPUP_OPENED;
+p6;1568787410;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568791197;;;;;;POPUP_OPENED;
+p6;1568791231;Helping;3;4;4;Average;POPUP_CLOSED;customer support
+p6;1568795136;;;;;;POPUP_OPENED;
+p6;1568795159;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568799057;;;;;;POPUP_OPENED;
+p6;1568799140;Meeting;4;4;3;Average;POPUP_CLOSED;Started with a meeting last hour and currently coding again
+p6;1568802909;;;;;;POPUP_OPENED;
+p6;1568802933;Other;4;3;3;Average;POPUP_CLOSED;just got back from walk
+p6;1568806918;;;;;;POPUP_OPENED;
+p6;1568806931;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568810582;;;;;;POPUP_OPENED;
+p6;1568810602;Coding;3;4;3;Average;POPUP_CLOSED;
+p6;1568814638;;;;;;POPUP_OPENED;
+p6;1568814686;Coding;3;3;3;Average;POPUP_CLOSED;Mostly coding with a little networking inbetween
+p6;1568874086;;;;;;POPUP_OPENED;
+p6;1568874113;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568878448;;;;;;POPUP_OPENED;
+p6;1568878470;Helping;3;4;4;Above average;POPUP_CLOSED;
+p6;1568882075;;;;;;POPUP_OPENED;
+p6;1568882153;Coding;3;3;3;Average;POPUP_CLOSED; back from helping colleague starting to code again now.
+p6;1568886202;;;;;;POPUP_OPENED;
+p6;1568886220;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568889847;;;;;;POPUP_OPENED;
+p6;1568889876;Coding;3;4;3;Average;POPUP_CLOSED; Finished walk back to coding now
+p6;1568893529;;;;;;POPUP_OPENED;
+p6;1568893541;Coding;3;2;3;Average;POPUP_CLOSED;
+p6;1568897165;;;;;;POPUP_OPENED;
+p6;1568897231;Coding;2;3;3;Below average;POPUP_CLOSED;stuck with coding
+p6;1568900905;;;;;;POPUP_OPENED;
+p6;1568900921;Coding;3;3;3;Average;POPUP_CLOSED;
+p6;1568959228;;;;;;POPUP_OPENED;
+p6;1568959239;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p6;1568962842;;;;;;POPUP_OPENED;
+p6;1568962854;Networking;3;4;3;Average;POPUP_CLOSED;
+p6;1568966460;;;;;;POPUP_OPENED;
+p6;1568966521;Networking;4;3;3;Average;POPUP_CLOSED;eating pie :)
+p6;1568970238;;;;;;POPUP_OPENED;
+p6;1568970280;Coding;3;4;3;Average;POPUP_CLOSED;
+p6;1568975990;;;;;;POPUP_OPENED;
+p6;1568976012;Other;4;3;3;Average;POPUP_CLOSED;back from walk
+p6;1568979618;;;;;;POPUP_OPENED;
+p6;1568979636;Coding;3;4;3;Average;POPUP_CLOSED;
+p6;1568983243;;;;;;POPUP_OPENED;
+p6;1568983269;Coding;3;4;3;Above average;POPUP_CLOSED;
+p6;1568986872;;;;;;POPUP_OPENED;
+p6;1568986891;Coding;4;4;3;Average;POPUP_CLOSED;
+p7;1568009784;;;;;;POPUP_OPENED;
+p7;1568009850;Just arrived;5;1;1;Average;POPUP_CLOSED; Just arrived on bike wristband is not working probaly not charged.
+p7;1568013453;;;;;;POPUP_OPENED;
+p7;1568013575;Bugfixing;3;1;5;Average;POPUP_CLOSED;
+p7;1568017179;;;;;;POPUP_OPENED;
+p7;1568017229;Bugfixing;4;1;5;Average;POPUP_CLOSED;Fixed a bug. Have been standing behind my desk for a while.
+p7;1568020834;;;;;;POPUP_OPENED;
+p7;1568020892;Design;4;1;5;Average;POPUP_CLOSED; Been eating sandwiches now eating some fruit.
+p7;1568025410;;;;;;POPUP_OPENED;
+p7;1568025473;Other;4;1;5;Average;POPUP_CLOSED;Just made a walk during lunch time. Battery of wristband seems to be empty.
+p7;1568029190;;;;;;POPUP_OPENED;
+p7;1568029374;Meeting;4;3;4;Above average;POPUP_CLOSED; Preparing for a sprint meeting/demo and not everything is working as it should (yet :-)).
+p7;1568036759;;;;;;POPUP_OPENED;
+p7;1568037245;Meeting;4;1;5;Average;POPUP_CLOSED;Just had a long sprint meeting.
+p7;1568096337;;;;;;POPUP_OPENED;
+p7;1568096416;Just arrived;3;2;5;Average;POPUP_CLOSED; Just arrived with the car today.
+p7;1568100019;;;;;;POPUP_OPENED;
+p7;1568100161;Design;4;1;5;Average;POPUP_CLOSED;Writing down some thoughts regarding design which have kept my mind busy. Going to stand up behind standing desk.
+p7;1568104001;;;;;;POPUP_OPENED;
+p7;1568104043;Coding;4;2;5;Above average;POPUP_CLOSED;
+p7;1568107878;;;;;;POPUP_OPENED;
+p7;1568107989;Coding;4;2;5;Below average;POPUP_CLOSED;Got some questions from colleagues inbetween.
+p7;1568109901;;;;;;POPUP_OPENED;
+p7;1568109947;Other;4;2;5;Average;POPUP_CLOSED;Afternoon off.
+p7;1568182652;;;;;;POPUP_OPENED;
+p7;1568183127;Just arrived;3;2;5;Average;POPUP_CLOSED; Just arrived not feeling optimal having some flu-like symptoms.
+p7;1568187721;;;;;;POPUP_OPENED;
+p7;1568187943;Helping;4;1;5;Below average;POPUP_CLOSED;Talking through some new functionality in code with colleague.
+p7;1568188208;;;;;;POPUP_OPENED;
+p7;1568188281;Coding;5;1;5;Above average;POPUP_CLOSED;Just got some coffee and switch on noise canceling headphones.
+p7;1568191930;;;;;;POPUP_OPENED;
+p7;1568191980;Coding;4;1;5;Average;POPUP_CLOSED; Still listing to music going to work standing for a while.
+p7;1568195584;;;;;;POPUP_OPENED;
+p7;1568195659;Coding;4;1;5;Average;POPUP_CLOSED;Also had a question/discussion with a colleague
+p7;1568199262;;;;;;POPUP_OPENED;
+p7;1568199277;Coding;4;1;5;Average;POPUP_CLOSED;
+p7;1568202931;;;;;;POPUP_OPENED;
+p7;1568202976;Coding;4;1;5;Average;POPUP_CLOSED; Felt a bit warm took off my sweater.
+p7;1568206601;;;;;;POPUP_OPENED;
+p7;1568206613;Coding;4;1;5;Average;POPUP_CLOSED;
+p7;1568210690;;;;;;POPUP_OPENED;
+p7;1568210845;Design;4;2;5;Average;POPUP_CLOSED;Had some discussion about code.
+p7;1568212807;;;;;;POPUP_OPENED;
+p7;1568212928;Other;5;3;5;Average;POPUP_CLOSED;Had some laughs with colleague.
+p7;1568268844;;;;;;POPUP_OPENED;
+p7;1568268866;Just arrived;5;1;5;Average;POPUP_CLOSED;
+p7;1568272674;;;;;;POPUP_OPENED;
+p7;1568272726;Design;4;2;5;Average;POPUP_CLOSED;
+p7;1568276692;;;;;;POPUP_OPENED;
+p7;1568276743;Helping;4;2;5;Above average;POPUP_CLOSED;Fixing some issues
+p7;1568282305;;;;;;POPUP_OPENED;
+p7;1568282325;Helping;4;2;5;Average;POPUP_CLOSED;
+p7;1568285928;;;;;;POPUP_OPENED;
+p7;1568285952;Other;4;2;5;Average;POPUP_CLOSED;
+p7;1568289794;;;;;;POPUP_OPENED;
+p7;1568289835;Coding;4;2;5;Average;POPUP_CLOSED;
+p7;1568293438;;;;;;POPUP_OPENED;
+p7;1568293463;Coding;4;2;5;Average;POPUP_CLOSED;
+p7;1568297483;;;;;;POPUP_OPENED;
+p7;1568297515;Coding;4;2;5;Below average;POPUP_CLOSED;
+p7;1568614723;;;;;;POPUP_OPENED;
+p7;1568614971;Just arrived;4;3;5;Average;POPUP_CLOSED;
+p7;1568618921;;;;;;POPUP_OPENED;
+p7;1568619016;Coding;5;2;5;Above average;POPUP_CLOSED;Helped someone to get something working. Making good progress with code working on.
+p7;1568622620;;;;;;POPUP_OPENED;
+p7;1568622682;Coding;5;1;5;Above average;POPUP_CLOSED;Had some food.
+p7;1568626551;;;;;;POPUP_OPENED;
+p7;1568626569;Coding;4;2;5;Above average;POPUP_CLOSED;
+p7;1568630344;;;;;;POPUP_OPENED;
+p7;1568630364;Other;4;2;5;Average;POPUP_CLOSED;
+p7;1568636503;;;;;;POPUP_OPENED;
+p7;1568636543;Helping;4;3;4;Below average;POPUP_CLOSED;
+p7;1568640183;;;;;;POPUP_OPENED;
+p7;1568640200;Testing;4;2;5;Above average;POPUP_CLOSED;
+p7;1568644071;;;;;;POPUP_OPENED;
+p7;1568644087;Testing;3;2;5;Average;POPUP_CLOSED;
+p7;1568700684;;;;;;POPUP_OPENED;
+p7;1568700729;Just arrived;4;2;5;Average;POPUP_CLOSED;
+p7;1568704379;;;;;;POPUP_OPENED;
+p7;1568704426;Testing;4;2;5;Average;POPUP_CLOSED;Debugging some unit tests
+p7;1568711118;;;;;;POPUP_OPENED;
+p7;1568711169;Helping;5;2;5;Below average;POPUP_CLOSED;Helped with some design questions.
+p7;1568716292;;;;;;POPUP_OPENED;
+p7;1568716341;Other;5;2;5;Below average;POPUP_CLOSED;Just had my daily walk during lunch.
+p7;1568719965;;;;;;POPUP_OPENED;
+p7;1568720013;Testing;3;2;4;Average;POPUP_CLOSED;Still fixing some issues in unit tests
+p7;1568725185;;;;;;POPUP_OPENED;
+p7;1568725562;Helping;5;2;5;Below average;POPUP_CLOSED;Helping another colleague on its way.
+p7;1568729228;;;;;;POPUP_OPENED;
+p7;1568729290;Coding;5;2;5;Very high;POPUP_CLOSED; Fixed complicated issue in unit tests. now writing some new ones.
+p8;1568010913;;;;;;POPUP_OPENED;
+p8;1568011436;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p8;1568015041;;;;;;POPUP_OPENED;
+p8;1568015079;Coding;2;2;4;Average;POPUP_CLOSED;
+p8;1568018794;;;;;;POPUP_OPENED;
+p8;1568018835;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568022445;;;;;;POPUP_OPENED;
+p8;1568022495;Coding;3;2;3;Average;POPUP_CLOSED;
+p8;1568026361;;;;;;POPUP_OPENED;
+p8;1568026383;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568030368;;;;;;POPUP_OPENED;
+p8;1568030387;Coding;2;3;3;Average;POPUP_CLOSED;
+p8;1568033995;;;;;;POPUP_OPENED;
+p8;1568034012;Coding;3;2;3;Average;POPUP_CLOSED;
+p8;1568037615;;;;;;POPUP_OPENED;
+p8;1568037627;Coding;2;3;3;Average;POPUP_CLOSED;
+p8;1568097777;;;;;;POPUP_OPENED;
+p8;1568097796;Coding;4;2;3;Average;POPUP_CLOSED;
+p8;1568102703;;;;;;POPUP_OPENED;
+p8;1568102739;Coding;3;2;3;Average;POPUP_CLOSED;
+p8;1568106363;;;;;;POPUP_OPENED;
+p8;1568106378;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568113659;;;;;;POPUP_OPENED;
+p8;1568113740;Coding;1;3;4;Average;POPUP_CLOSED;bit frustrated because of the illogical current structure of the code
+p8;1568117342;;;;;;POPUP_OPENED;
+p8;1568117356;Coding;4;3;3;Average;POPUP_CLOSED;
+p8;1568120712;;;;;;POPUP_OPENED;
+p8;1568120732;Coding;4;3;4;Average;POPUP_CLOSED;
+p8;1568124316;;;;;;POPUP_OPENED;
+p8;1568124324;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568267721;;;;;;POPUP_OPENED;
+p8;1568267732;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568297394;;;;;;POPUP_OPENED;
+p8;1568297400;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568354480;;;;;;POPUP_OPENED;
+p8;1568354489;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568359090;;;;;;POPUP_OPENED;
+p8;1568359099;Coding;3;2;3;Average;POPUP_CLOSED;
+p8;1568615488;;;;;;POPUP_OPENED;
+p8;1568615495;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568619097;;;;;;POPUP_OPENED;
+p8;1568619137;Coding;4;4;4;Average;POPUP_CLOSED;finaly found the problem in the code that was bothering for some time
+p8;1568639616;;;;;;POPUP_OPENED;
+p8;1568639652;Coding;1;4;3;Average;POPUP_CLOSED;frustation with translations and some code
+p8;1568643052;;;;;;POPUP_OPENED;
+p8;1568643058;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568701200;;;;;;POPUP_OPENED;
+p8;1568701210;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568704816;;;;;;POPUP_OPENED;
+p8;1568704833;Coding;4;3;4;Average;POPUP_CLOSED;
+p8;1568717075;;;;;;POPUP_OPENED;
+p8;1568717083;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568720685;;;;;;POPUP_OPENED;
+p8;1568720697;Coding;3;2;3;Average;POPUP_CLOSED;
+p8;1568729332;;;;;;POPUP_OPENED;
+p8;1568729339;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568782627;;;;;;POPUP_OPENED;
+p8;1568782652;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568788072;;;;;;POPUP_OPENED;
+p8;1568788083;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568791686;;;;;;POPUP_OPENED;
+p8;1568791698;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568807591;;;;;;POPUP_OPENED;
+p8;1568807616;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568808098;;;;;;POPUP_OPENED;
+p8;1568808114;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568811716;;;;;;POPUP_OPENED;
+p8;1568811724;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568815327;;;;;;POPUP_OPENED;
+p8;1568815335;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568872758;;;;;;POPUP_OPENED;
+p8;1568872769;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p8;1568876373;;;;;;POPUP_OPENED;
+p8;1568876381;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568879983;;;;;;POPUP_OPENED;
+p8;1568879993;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568883595;;;;;;POPUP_OPENED;
+p8;1568883626;Coding;3;2;3;Average;POPUP_CLOSED;
+p8;1568887229;;;;;;POPUP_OPENED;
+p8;1568887238;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568890860;;;;;;POPUP_OPENED;
+p8;1568890867;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568894469;;;;;;POPUP_OPENED;
+p8;1568894477;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568898087;;;;;;POPUP_OPENED;
+p8;1568898095;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568901822;;;;;;POPUP_OPENED;
+p8;1568901830;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568959050;;;;;;POPUP_OPENED;
+p8;1568959065;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p8;1568962669;;;;;;POPUP_OPENED;
+p8;1568962677;Coding;3;3;3;Average;POPUP_CLOSED;
+p8;1568966391;;;;;;POPUP_OPENED;
+p8;1568966399;Coding;3;3;3;Average;POPUP_CLOSED;
+p9;1569219689;;;;;;POPUP_OPENED;
+p9;1569219717;Just arrived;4;3;3;Average;POPUP_CLOSED;
+p9;1569223380;;;;;;POPUP_OPENED;
+p9;1569223435;Coding;3;4;3;Average;POPUP_CLOSED; setup customer project from library but a lot of things disturbing process
+p9;1569227062;;;;;;POPUP_OPENED;
+p9;1569227081;Coding;4;4;4;Above average;POPUP_CLOSED;
+p9;1569230719;;;;;;POPUP_OPENED;
+p9;1569230728;Coding;4;3;4;Above average;POPUP_CLOSED;
+p9;1569305486;;;;;;POPUP_OPENED;
+p9;1569305548;Other;3;3;3;Average;POPUP_CLOSED;
+p9;1569307212;;;;;;POPUP_OPENED;
+p9;1569307226;Just arrived;4;3;4;Average;POPUP_CLOSED;
+p9;1569319166;;;;;;POPUP_OPENED;
+p9;1569319183;Meeting;2;4;2;Average;POPUP_CLOSED;
+p9;1569322826;;;;;;POPUP_OPENED;
+p9;1569322842;Helping;2;3;3;Below average;POPUP_CLOSED;
+p9;1569326444;;;;;;POPUP_OPENED;
+p9;1569326459;Helping;3;5;3;Average;POPUP_CLOSED;
+p9;1569330655;;;;;;POPUP_OPENED;
+p9;1569330669;Coding;2;3;1;Average;POPUP_CLOSED;
+p9;1569334271;;;;;;POPUP_OPENED;
+p9;1569334293;Helping;3;4;4;Above average;POPUP_CLOSED;
+p9;1569335996;;;;;;POPUP_OPENED;
+p9;1569336019;Coding;3;3;3;Above average;POPUP_CLOSED;
+p9;1569570817;;;;;;POPUP_OPENED;
+p9;1569570828;Just arrived;3;3;4;Average;POPUP_CLOSED;
+p9;1569574563;;;;;;POPUP_OPENED;
+p9;1569574586;Documentation;4;2;4;Above average;POPUP_CLOSED;
+p9;1569578233;;;;;;POPUP_OPENED;
+p9;1569578244;Documentation;4;2;4;Above average;POPUP_CLOSED;
+p9;1569581900;;;;;;POPUP_OPENED;
+p9;1569581915;Testing;4;3;4;Above average;POPUP_CLOSED;
+p9;1569586330;;;;;;POPUP_OPENED;
+p9;1569586347;Administrative tasks;4;2;4;Average;POPUP_CLOSED;
+p9;1569590575;;;;;;POPUP_OPENED;
+p9;1569590591;Design;4;2;4;Above average;POPUP_CLOSED;
+p9;1569594449;;;;;;POPUP_OPENED;
+p9;1569594462;Administrative tasks;4;2;4;Average;POPUP_CLOSED;
+p9;1569826459;;;;;;POPUP_OPENED;
+p9;1569826469;Just arrived;3;4;4;Average;POPUP_CLOSED;
+p9;1569833120;;;;;;POPUP_OPENED;
+p9;1569833129;Meeting;3;2;2;Average;POPUP_CLOSED;
+p9;1569836752;;;;;;POPUP_OPENED;
+p9;1569836772;Testing;3;2;4;Below average;POPUP_CLOSED;
+p9;1569841348;;;;;;POPUP_OPENED;
+p9;1569841362;Testing;3;2;3;Below average;POPUP_CLOSED;
+p9;1569844964;;;;;;POPUP_OPENED;
+p9;1569844979;Coding;2;2;3;Average;POPUP_CLOSED;
+p9;1569849800;;;;;;POPUP_OPENED;
+p9;1569849817;Coding;2;2;3;Below average;POPUP_CLOSED;
+p9;1569853435;;;;;;POPUP_OPENED;
+p9;1569853445;Bugfixing;3;2;4;Average;POPUP_CLOSED;
+p9;1569910624;;;;;;POPUP_OPENED;
+p9;1569910637;Just arrived;3;2;3;Above average;POPUP_CLOSED;
+p9;1569914261;;;;;;POPUP_OPENED;
+p9;1569914280;Bugfixing;4;3;4;Above average;POPUP_CLOSED;
+p9;1569918163;;;;;;POPUP_OPENED;
+p9;1569918184;Bugfixing;5;3;4;Below average;POPUP_CLOSED;had cake
+p9;1569924275;;;;;;POPUP_OPENED;
+p9;1569924296;Meeting;3;2;4;Average;POPUP_CLOSED;
+p9;1569928598;;;;;;POPUP_OPENED;
+p9;1569928610;Coding;4;2;3;Average;POPUP_CLOSED;
+p9;1569932212;;;;;;POPUP_OPENED;
+p9;1569932224;Design;4;2;4;Above average;POPUP_CLOSED;
+p9;1569940427;;;;;;POPUP_OPENED;
+p9;1569940442;Meeting;3;2;4;Above average;POPUP_CLOSED;
+p9;1569996984;;;;;;POPUP_OPENED;
+p9;1569996998;Just arrived;4;2;4;Above average;POPUP_CLOSED;
+p9;1570013639;;;;;;POPUP_OPENED;
+p9;1570013676;Learning;4;3;4;Below average;POPUP_CLOSED;last 30m lunchbreak therefor a course were i allready know all the stuff told.
+p9;1570017278;;;;;;POPUP_OPENED;
+p9;1570017296;Bugfixing;3;3;4;Average;POPUP_CLOSED;
+p9;1570020961;;;;;;POPUP_OPENED;
+p9;1570020972;Meeting;4;3;3;Average;POPUP_CLOSED;
+p9;1570024576;;;;;;POPUP_OPENED;
+p9;1570024587;Design;3;2;4;Above average;POPUP_CLOSED;
+p9;1570082957;;;;;;POPUP_OPENED;
+p9;1570082966;Coding;4;2;4;Above average;POPUP_CLOSED;
+p9;1570094981;;;;;;POPUP_OPENED;
+p9;1570094991;Meeting;3;3;4;Average;POPUP_CLOSED;
+p9;1570102376;;;;;;POPUP_OPENED;
+p9;1570102386;Coding;4;3;4;Average;POPUP_CLOSED;
+p9;1570111344;;;;;;POPUP_OPENED;
+p9;1570111353;Coding;2;3;2;Average;POPUP_CLOSED;
+p10;1569219148;;;;;;POPUP_OPENED;
+p10;1569219502;Just arrived;4;3;4;Average;POPUP_CLOSED;
+p10;1569223106;;;;;;POPUP_OPENED;
+p10;1569223161;Helping;2;3;3;Average;POPUP_CLOSED;Busy with problems of a customer
+p10;1569226773;;;;;;POPUP_OPENED;
+p10;1569226850;Helping;4;3;4;Average;POPUP_CLOSED; Still helping customer but it looks like the problems are solved
+p10;1569230906;;;;;;POPUP_OPENED;
+p10;1569230958;Meeting;3;3;3;Average;POPUP_CLOSED;
+p10;1569234885;;;;;;POPUP_OPENED;
+p10;1569234929;Other;4;4;4;Average;POPUP_CLOSED;
+p10;1569239103;;;;;;POPUP_OPENED;
+p10;1569239134;Coding;4;3;3;Average;POPUP_CLOSED;
+p10;1569244030;;;;;;POPUP_OPENED;
+p10;1569244056;Helping;4;2;4;Average;POPUP_CLOSED;
+p10;1569247973;;;;;;POPUP_OPENED;
+p10;1569248043;Helping;2;3;1;Average;POPUP_CLOSED; Helping with a very old machine with very old software where I don t have knowledge of.
+p10;1569305232;;;;;;POPUP_OPENED;
+p10;1569305271;Just arrived;4;2;4;Average;POPUP_CLOSED; No new emails so quiet start of the day
+p10;1569309097;;;;;;POPUP_OPENED;
+p10;1569309120;Testing;4;2;4;Average;POPUP_CLOSED;
+p10;1569313515;;;;;;POPUP_OPENED;
+p10;1569313551;Coding;4;3;4;Average;POPUP_CLOSED;
+p10;1569317663;;;;;;POPUP_OPENED;
+p10;1569317686;Email;3;3;4;Average;POPUP_CLOSED;
+p10;1569321417;;;;;;POPUP_OPENED;
+p10;1569321462;Networking;4;4;4;Average;POPUP_CLOSED;Just had a break. Did a cardgame.
+p10;1569325067;;;;;;POPUP_OPENED;
+p10;1569325127;Administrative tasks;4;2;4;Average;POPUP_CLOSED;
+p10;1569330271;;;;;;POPUP_OPENED;
+p10;1569330294;Helping;4;2;4;Average;POPUP_CLOSED;
+p10;1569335947;;;;;;POPUP_OPENED;
+p10;1569336958;Helping;2;4;2;Average;POPUP_CLOSED; Want to go home but cannot because customer does have a problem
+p10;1569391224;;;;;;POPUP_OPENED;
+p10;1569391240;Just arrived;4;2;4;Average;POPUP_CLOSED;
+p10;1569394880;;;;;;POPUP_OPENED;
+p10;1569394903;Bugfixing;2;3;3;Average;POPUP_CLOSED;
+p10;1569398580;;;;;;POPUP_OPENED;
+p10;1569398595;Bugfixing;4;4;4;Average;POPUP_CLOSED;
+p10;1569402374;;;;;;POPUP_OPENED;
+p10;1569402391;Bugfixing;2;2;2;Below average;POPUP_CLOSED;
+p10;1569407655;;;;;;POPUP_OPENED;
+p10;1569407700;Helping;2;3;2;Average;POPUP_CLOSED;Looking at a problem witch I don t think it is a problem
+p10;1569411460;;;;;;POPUP_OPENED;
+p10;1569411506;Helping;1;4;1;Below average;POPUP_CLOSED;Have to do things I don t want to! Want to continue with the bugfix of tomorrow.
+p10;1569421432;;;;;;POPUP_OPENED;
+p10;1569421455;Bugfixing;4;3;4;Average;POPUP_CLOSED;Just solved a small bug.
+p10;1569474335;;;;;;POPUP_OPENED;
+p10;1569474375;Just arrived;3;4;4;Average;POPUP_CLOSED; Came in early today because it is a busy day. Hope I can fix several issues.
+p10;1569482322;;;;;;POPUP_OPENED;
+p10;1569482337;Bugfixing;3;3;4;Average;POPUP_CLOSED;
+p10;1569494041;;;;;;POPUP_OPENED;
+p10;1569494102;Helping;2;3;2;Average;POPUP_CLOSED; Stupid problems today! Popup isn t showing up automatic. Problems with customers. a Little bit frustrated.
+p10;1569499271;;;;;;POPUP_OPENED;
+p10;1569499310;Helping;4;3;2;Average;POPUP_CLOSED;Just solved one problem. Up to the next.
+p10;1569505913;;;;;;POPUP_OPENED;
+p10;1569505997;Administrative tasks;3;3;3;Below average;POPUP_CLOSED;Did some bugfixing. Now going to checkin my changes into SVN.
+p10;1569564571;;;;;;POPUP_OPENED;
+p10;1569564594;Just arrived;3;3;2;Average;POPUP_CLOSED;
+p10;1569568653;;;;;;POPUP_OPENED;
+p10;1569569095;Helping;3;3;4;Average;POPUP_CLOSED;
+p10;1569572698;;;;;;POPUP_OPENED;
+p10;1569572757;Other;4;4;4;Above average;POPUP_CLOSED;Just solved a problem at a customer very quick. Everybody happy. Now reviewing code from a colleage.
+p10;1569576363;;;;;;POPUP_OPENED;
+p10;1569576395;Administrative tasks;4;4;4;Average;POPUP_CLOSED;Weekend!
+p10;1569824133;;;;;;POPUP_OPENED;
+p10;1569824786;Just arrived;4;2;4;Average;POPUP_CLOSED;
+p10;1569828605;;;;;;POPUP_OPENED;
+p10;1569828621;Meeting;3;2;4;Average;POPUP_CLOSED;
+p10;1569832225;;;;;;POPUP_OPENED;
+p10;1569832235;Coding;4;3;4;Average;POPUP_CLOSED;
+p10;1569835928;;;;;;POPUP_OPENED;
+p10;1569835946;Testing;4;3;3;Average;POPUP_CLOSED;
+p10;1569839646;;;;;;POPUP_OPENED;
+p10;1569839671;Networking;4;2;4;Average;POPUP_CLOSED;
+p10;1569843455;;;;;;POPUP_OPENED;
+p10;1569843485;Testing;4;4;4;Average;POPUP_CLOSED;IT looks like my change is working
+p10;1569847108;;;;;;POPUP_OPENED;
+p10;1569847119;Bugfixing;4;4;4;Average;POPUP_CLOSED;
+p10;1569851583;;;;;;POPUP_OPENED;
+p10;1569851595;Coding;4;3;4;Average;POPUP_CLOSED;
+p10;1569910812;;;;;;POPUP_OPENED;
+p10;1569910845;Just arrived;2;2;2;Average;POPUP_CLOSED;Too late at work. Traffic jam.
+p10;1569914569;;;;;;POPUP_OPENED;
+p10;1569914579;Coding;4;3;3;Average;POPUP_CLOSED;
+p10;1569918198;;;;;;POPUP_OPENED;
+p10;1569918285;Networking;5;2;4;Below average;POPUP_CLOSED;Just had a break to eat pie.
+p10;1569921893;;;;;;POPUP_OPENED;
+p10;1569921909;Coding;3;3;4;Above average;POPUP_CLOSED;
+p10;1569925986;;;;;;POPUP_OPENED;
+p10;1569926026;Coding;4;2;4;Average;POPUP_CLOSED;
+p10;1569930319;;;;;;POPUP_OPENED;
+p10;1569930330;Testing;4;3;4;Average;POPUP_CLOSED;
+p10;1569934794;;;;;;POPUP_OPENED;
+p10;1569934809;Testing;3;3;3;Average;POPUP_CLOSED;
+p10;1569938415;;;;;;POPUP_OPENED;
+p10;1569938441;Testing;4;4;4;Average;POPUP_CLOSED;
+p10;1569996337;;;;;;POPUP_OPENED;
+p10;1569996369;Just arrived;4;2;4;Average;POPUP_CLOSED;
+p10;1570012501;;;;;;POPUP_OPENED;
+p10;1570012529;Learning;2;3;2;Very low;POPUP_CLOSED; Just had a course but learned not much...
+p10;1570016289;;;;;;POPUP_OPENED;
+p10;1570016300;Bugfixing;3;3;3;Average;POPUP_CLOSED;
+p10;1570024229;;;;;;POPUP_OPENED;
+p10;1570024267;Helping;4;3;4;Average;POPUP_CLOSED;Installed the update at the customer. Looking if it works as expected.
+p10;1570082888;;;;;;POPUP_OPENED;
+p10;1570082897;Just arrived;4;3;4;Average;POPUP_CLOSED;
+p10;1570086500;;;;;;POPUP_OPENED;
+p10;1570086514;Coding;4;3;4;Average;POPUP_CLOSED;
+p10;1570090169;;;;;;POPUP_OPENED;
+p10;1570090229;Coding;4;2;4;Average;POPUP_CLOSED;
+p10;1570094348;;;;;;POPUP_OPENED;
+p10;1570094388;Other;2;4;2;Average;POPUP_CLOSED;Seems like my change from yesterday does not work :(
+p10;1570098955;;;;;;POPUP_OPENED;
+p10;1570098972;Bugfixing;3;4;4;Average;POPUP_CLOSED;
+p10;1570102599;;;;;;POPUP_OPENED;
+p10;1570102617;Bugfixing;2;3;2;Below average;POPUP_CLOSED;It won t work!
+p10;1570106222;;;;;;POPUP_OPENED;
+p10;1570106232;Bugfixing;2;4;3;Average;POPUP_CLOSED;
+p10;1570109836;;;;;;POPUP_OPENED;
+p10;1570109850;Testing;4;3;4;Average;POPUP_CLOSED;
+p11;1569220671;;;;;;POPUP_OPENED;
+p11;1569220860;Just arrived;4;4;4;Average;POPUP_CLOSED;
+p11;1569224687;;;;;;POPUP_OPENED;
+p11;1569224724;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569229151;;;;;;POPUP_OPENED;
+p11;1569229163;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569232767;;;;;;POPUP_OPENED;
+p11;1569232782;Coding;3;2;2;Below average;POPUP_CLOSED;
+p11;1569236394;;;;;;POPUP_OPENED;
+p11;1569236409;Coding;3;2;2;Below average;POPUP_CLOSED;
+p11;1569240344;;;;;;POPUP_OPENED;
+p11;1569240364;Testing;3;3;2;Below average;POPUP_CLOSED;
+p11;1569243967;;;;;;POPUP_OPENED;
+p11;1569243984;Testing;2;3;3;Below average;POPUP_CLOSED;
+p11;1569247611;;;;;;POPUP_OPENED;
+p11;1569247617;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569304591;;;;;;POPUP_OPENED;
+p11;1569304608;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p11;1569308299;;;;;;POPUP_OPENED;
+p11;1569308308;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569311970;;;;;;POPUP_OPENED;
+p11;1569311991;Testing;2;3;2;Below average;POPUP_CLOSED;
+p11;1569315634;;;;;;POPUP_OPENED;
+p11;1569315641;Coding;3;3;2;Below average;POPUP_CLOSED;
+p11;1569320593;;;;;;POPUP_OPENED;
+p11;1569320600;Coding;3;3;3;Below average;POPUP_CLOSED;
+p11;1569322773;;;;;;POPUP_OPENED;
+p11;1569322790;Coding;2;3;2;Below average;POPUP_CLOSED;
+p11;1569326392;;;;;;POPUP_OPENED;
+p11;1569326403;Testing;4;3;4;Below average;POPUP_CLOSED;
+p11;1569330330;;;;;;POPUP_OPENED;
+p11;1569330342;Testing;2;3;2;Below average;POPUP_CLOSED;
+p11;1569333944;;;;;;POPUP_OPENED;
+p11;1569333955;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569335856;;;;;;POPUP_OPENED;
+p11;1569335875;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569394211;;;;;;POPUP_OPENED;
+p11;1569394231;Just arrived;4;4;4;Average;POPUP_CLOSED;
+p11;1569397833;;;;;;POPUP_OPENED;
+p11;1569397845;Testing;4;3;4;Average;POPUP_CLOSED;
+p11;1569401526;;;;;;POPUP_OPENED;
+p11;1569401541;Testing;4;4;3;Below average;POPUP_CLOSED;
+p11;1569406195;;;;;;POPUP_OPENED;
+p11;1569406208;Testing;4;3;4;Average;POPUP_CLOSED;
+p11;1569409891;;;;;;POPUP_OPENED;
+p11;1569409906;Testing;4;3;4;Average;POPUP_CLOSED;
+p11;1569412153;;;;;;POPUP_OPENED;
+p11;1569412164;Testing;4;4;3;Average;POPUP_CLOSED;
+p11;1569416153;;;;;;POPUP_OPENED;
+p11;1569416162;Testing;3;3;3;Average;POPUP_CLOSED;
+p11;1569419800;;;;;;POPUP_OPENED;
+p11;1569419813;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569476711;;;;;;POPUP_OPENED;
+p11;1569476723;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p11;1569480350;;;;;;POPUP_OPENED;
+p11;1569480357;Testing;3;3;3;Average;POPUP_CLOSED;
+p11;1569483965;;;;;;POPUP_OPENED;
+p11;1569483980;Meeting;4;3;4;Average;POPUP_CLOSED;
+p11;1569487806;;;;;;POPUP_OPENED;
+p11;1569487818;Testing;4;4;4;Below average;POPUP_CLOSED;
+p11;1569491946;;;;;;POPUP_OPENED;
+p11;1569491953;Testing;4;4;3;Below average;POPUP_CLOSED;
+p11;1569495555;;;;;;POPUP_OPENED;
+p11;1569495564;Coding;3;3;3;Below average;POPUP_CLOSED;
+p11;1569499689;;;;;;POPUP_OPENED;
+p11;1569499780;Meeting;3;3;2;Below average;POPUP_CLOSED;
+p11;1569504274;;;;;;POPUP_OPENED;
+p11;1569504285;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569567872;;;;;;POPUP_OPENED;
+p11;1569567889;Coding;3;3;3;Below average;POPUP_CLOSED;
+p11;1569571667;;;;;;POPUP_OPENED;
+p11;1569571684;Testing;3;3;2;Below average;POPUP_CLOSED;
+p11;1569575298;;;;;;POPUP_OPENED;
+p11;1569575304;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1569581191;;;;;;POPUP_OPENED;
+p11;1569581203;Coding;4;3;3;Below average;POPUP_CLOSED;
+p11;1569585491;;;;;;POPUP_OPENED;
+p11;1569585498;Testing;3;3;3;Below average;POPUP_CLOSED;
+p11;1570014359;;;;;;POPUP_OPENED;
+p11;1570014375;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p11;1570018048;;;;;;POPUP_OPENED;
+p11;1570018087;Testing;3;3;3;Average;POPUP_CLOSED;Testing the KPIMonitor tool... no specific problems occured yet
+p11;1570023196;;;;;;POPUP_OPENED;
+p11;1570023204;Testing;3;3;3;Average;POPUP_CLOSED;
+p11;1570100480;;;;;;POPUP_OPENED;
+p11;1570100489;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p11;1570169633;;;;;;POPUP_OPENED;
+p11;1570169641;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p11;1570170348;;;;;;POPUP_OPENED;
+p11;1570170364;Just arrived;3;3;3;Average;POPUP_CLOSED;
+p11;1570194857;;;;;;POPUP_OPENED;
+p11;1570194872;Coding;4;3;3;Average;POPUP_CLOSED;
+p13;1570428069;;;;;;POPUP_OPENED;
+p13;1570428102;Just arrived;3;4;5;Average;POPUP_CLOSED;
+p13;1570435202;;;;;;POPUP_OPENED;
+p13;1570435261;Testing;2;3;2;Below average;POPUP_CLOSED;Just did 2 hours of testing with little result in the end.
+p13;1570437998;;;;;;POPUP_OPENED;
+p13;1570438119;Testing;2;4;3;Average;POPUP_CLOSED;Just tested in the factory with my test setup. I need to walk around 3 minutes to get there.
+p13;1570444184;;;;;;POPUP_OPENED;
+p13;1570444358;Bugfixing;4;3;4;Above average;POPUP_CLOSED;Building in some logging and trying to bugfix this way.
+p13;1570451706;;;;;;POPUP_OPENED;
+p13;1570451764;Bugfixing;4;5;3;Above average;POPUP_CLOSED;Trying to fix a problem with a machine high presure.
+p13;1570454113;;;;;;POPUP_OPENED;
+p13;1570454192;Bugfixing;4;5;4;Very high;POPUP_CLOSED;Just fixed a bug in a machine and I am happy about that.
+p13;1570458095;;;;;;POPUP_OPENED;
+p13;1570458167;Bugfixing;4;3;3;Above average;POPUP_CLOSED;
+p13;1570514938;;;;;;POPUP_OPENED;
+p13;1570514992;Just arrived;3;4;4;Average;POPUP_CLOSED;
+p13;1570518615;;;;;;POPUP_OPENED;
+p13;1570518659;Testing;2;3;3;Average;POPUP_CLOSED;
+p13;1570522262;;;;;;POPUP_OPENED;
+p13;1570522319;Bugfixing;2;4;4;Average;POPUP_CLOSED;Just talked with a collegue about a bugfix.
+p13;1570525977;;;;;;POPUP_OPENED;
+p13;1570526083;Testing;2;2;3;Below average;POPUP_CLOSED;The testing is not working because the error I expect is not popping up. I am annoyed by that. 
+p13;1570536656;;;;;;POPUP_OPENED;
+p13;1570536867;Meeting;3;4;4;Below average;POPUP_CLOSED;Long teammeeting with some irrelevant points for me so sometimes quit boring.
+p13;1570541336;;;;;;POPUP_OPENED;
+p13;1570541389;Bugfixing;3;4;2;Average;POPUP_CLOSED;
+p13;1570543858;;;;;;POPUP_OPENED;
+p13;1570543901;Bugfixing;2;4;2;Below average;POPUP_CLOSED;
+p13;1570604579;;;;;;POPUP_OPENED;
+p13;1570604693;Just arrived;2;4;3;Above average;POPUP_CLOSED;I came in an hour too late because I overslept which I am a little bit ashamed of.
+p13;1570609783;;;;;;POPUP_OPENED;
+p13;1570609823;Testing;4;5;4;Above average;POPUP_CLOSED;Just tested my application again and I am happy about the results!
+p13;1570613504;;;;;;POPUP_OPENED;
+p13;1570613773;Learning;4;4;3;Above average;POPUP_CLOSED;A collegue helped me with something.
+p13;1570618148;;;;;;POPUP_OPENED;
+p13;1570618167;Meeting;3;3;4;Average;POPUP_CLOSED;
+p13;1570622544;;;;;;POPUP_OPENED;
+p13;1570622595;Testing;4;4;5;Above average;POPUP_CLOSED;Testing my application by fysical placing new object in front of a camera.
+p13;1570625148;;;;;;POPUP_OPENED;
+p13;1570625187;Testing;3;2;4;Below average;POPUP_CLOSED;
+p13;1570631648;;;;;;POPUP_OPENED;
+p13;1570631680;Testing;4;2;3;Above average;POPUP_CLOSED;
+p13;1570780022;;;;;;POPUP_OPENED;
+p13;1570780194;Just arrived;3;2;4;Average;POPUP_CLOSED;Started my day and the Empatica at 8 a clock but forget to turn on the experience sampling.
+p13;1570784069;;;;;;POPUP_OPENED;
+p13;1570784128;Bugfixing;4;3;4;Above average;POPUP_CLOSED;Just spoke with my manager about some features that need to be added in my application I am happy about the conversation.
+p13;1570787731;;;;;;POPUP_OPENED;
+p13;1570787786;Bugfixing;2;2;3;Average;POPUP_CLOSED;I have pain in my shoulder  so I can't work as fast as I want.
+p13;1570792869;;;;;;POPUP_OPENED;
+p13;1570792896;Bugfixing;2;3;3;Average;POPUP_CLOSED;
+p13;1570796578;;;;;;POPUP_OPENED;
+p13;1570796630;Testing;4;3;4;Average;POPUP_CLOSED;
+p13;1571033624;;;;;;POPUP_OPENED;
+p13;1571033647;Just arrived;4;4;4;Average;POPUP_CLOSED;
+p13;1571037254;;;;;;POPUP_OPENED;
+p13;1571037271;Coding;4;3;4;Above average;POPUP_CLOSED;
+p13;1571040874;;;;;;POPUP_OPENED;
+p13;1571040913;Coding;4;3;4;Above average;POPUP_CLOSED;
+p13;1571044904;;;;;;POPUP_OPENED;
+p13;1571044931;Coding;2;2;3;Average;POPUP_CLOSED;I am a little tired.
+p13;1571048877;;;;;;POPUP_OPENED;
+p13;1571048903;Other;4;4;4;Average;POPUP_CLOSED;Just back from some walking.
+p13;1571053316;;;;;;POPUP_OPENED;
+p13;1571053367;Testing;4;4;3;Average;POPUP_CLOSED;Just talked with my manager and he said my work looked good this gave my some confidence.
+p13;1571057075;;;;;;POPUP_OPENED;
+p13;1571057096;Testing;3;2;3;Average;POPUP_CLOSED;
+p13;1571060716;;;;;;POPUP_OPENED;
+p13;1571060769;Testing;4;3;4;Above average;POPUP_CLOSED;
+p13;1571118858;;;;;;POPUP_OPENED;
+p13;1571118873;Just arrived;4;3;3;Average;POPUP_CLOSED;
+p13;1571122479;;;;;;POPUP_OPENED;
+p13;1571122502;Coding;2;3;3;Average;POPUP_CLOSED;I am a little tired.
+p13;1571126141;;;;;;POPUP_OPENED;
+p13;1571126208;Coding;4;4;3;Above average;POPUP_CLOSED;A colleague helped me with some coding.
+p13;1571130897;;;;;;POPUP_OPENED;
+p13;1571130920;Coding;3;2;2;Below average;POPUP_CLOSED;
+p13;1571135991;;;;;;POPUP_OPENED;
+p13;1571136005;Coding;4;2;3;Below average;POPUP_CLOSED;
+p13;1571139607;;;;;;POPUP_OPENED;
+p13;1571139624;Coding;2;2;3;Below average;POPUP_CLOSED;
+p13;1571148503;;;;;;POPUP_OPENED;
+p13;1571148613;Meeting;4;4;3;Above average;POPUP_CLOSED;The meeting required a lot of my brainpower.
+p13;1571379352;;;;;;POPUP_OPENED;
+p13;1571379380;Just arrived;4;3;4;Average;POPUP_CLOSED;
+p13;1571382982;;;;;;POPUP_OPENED;
+p13;1571383037;Testing;2;4;4;Above average;POPUP_CLOSED;Doing some testing for a bug that needs to be removed today.
+p13;1571387857;;;;;;POPUP_OPENED;
+p13;1571387897;Helping;4;3;3;Average;POPUP_CLOSED;Helping a colleague by setting up his testing environment.
+p13;1571391501;;;;;;POPUP_OPENED;
+p13;1571391517;Coding;3;2;4;Above average;POPUP_CLOSED;
+p13;1571395140;;;;;;POPUP_OPENED;
+p13;1571395159;Bugfixing;3;2;3;Below average;POPUP_CLOSED;
+p13;1571398763;;;;;;POPUP_OPENED;
+p13;1571398787;Bugfixing;2;2;2;Below average;POPUP_CLOSED;
+p13;1571402390;;;;;;POPUP_OPENED;
+p13;1571402429;Bugfixing;3;3;4;Average;POPUP_CLOSED;
+p13;1571406031;;;;;;POPUP_OPENED;
+p13;1571406084;Bugfixing;4;3;4;Average;POPUP_CLOSED;Just finished the latest bugfixes in my application.
+p14;1570428015;;;;;;POPUP_OPENED;
+p14;1570428114;Just arrived;4;2;5;Average;POPUP_CLOSED;First day of the test. a bit nervous since it is the first time with the rist band but I think I will get used to it today. 
+p14;1570430524;;;;;;POPUP_OPENED;
+p14;1570430578;Testing;4;4;2;Average;POPUP_CLOSED;I am testing my algorithm at the moment to see if my new developed algo is better than the old one
+p14;1570432406;;;;;;POPUP_OPENED;
+p14;1570432642;Testing;4;2;3;Average;POPUP_CLOSED;Still testing software and the algorithm. I know what I need to do -> hence  I am in control of the situation but of cause I cannot control the outcome of the testing. That is why I chose 3 for the controlled/in control scale. 
+p14;1570434057;;;;;;POPUP_OPENED;
+p14;1570434245;Testing;4;2;3;Below average;POPUP_CLOSED;The softwaretests take some time and during this time the computer is doing so many calculation that I have sometimes a bit more and sometimes a bit less of waiting time. The time I need to wait is usually between 1 min am 5 min per or per datasets estimation. Due to the waiting time I estimated by productivity at the moment as below average. 
+p14;1570436611;;;;;;POPUP_OPENED;
+p14;1570436739;Coding;4;2;5;Average;POPUP_CLOSED;finished testing and I will now continue with a different project. 
+p14;1570438871;;;;;;POPUP_OPENED;
+p14;1570438922;Administrative tasks;4;2;5;Average;POPUP_CLOSED;
+p14;1570440901;;;;;;POPUP_OPENED;
+p14;1570440972;Coding;4;2;5;Above average;POPUP_CLOSED;I am having a plan how I would like to implement the givenen task in the algorithm. Therefore I now what I need to do and in which order. 
+p14;1570443072;;;;;;POPUP_OPENED;
+p14;1570443088;Coding;4;2;5;Above average;POPUP_CLOSED;
+p14;1570444853;;;;;;POPUP_OPENED;
+p14;1570444869;Coding;4;1;5;Above average;POPUP_CLOSED;
+p14;1570447920;;;;;;POPUP_OPENED;
+p14;1570447939;Coding;5;2;5;Above average;POPUP_CLOSED;
+p14;1570451668;;;;;;POPUP_OPENED;
+p14;1570451683;Coding;4;2;5;Average;POPUP_CLOSED;
+p14;1570453939;;;;;;POPUP_OPENED;
+p14;1570454000;Coding;4;2;5;Average;POPUP_CLOSED;project is going well and the plan that I make are working. 
+p14;1570454649;;;;;;POPUP_OPENED;
+p14;1570454677;Documentation;4;2;5;Average;POPUP_CLOSED;
+p14;1570456880;;;;;;POPUP_OPENED;
+p14;1570456902;Design;4;2;5;Average;POPUP_CLOSED;
+p14;1570513442;;;;;;POPUP_OPENED;
+p14;1570513473;Just arrived;4;1;5;Average;POPUP_CLOSED;
+p14;1570517271;;;;;;POPUP_OPENED;
+p14;1570517289;Bugfixing;4;1;5;Average;POPUP_CLOSED;
+p14;1570518293;;;;;;POPUP_OPENED;
+p14;1570518446;Coding;3;1;3;Below average;POPUP_CLOSED;I feel a bit sleepy and not so excited. At the moment I am doing a combination of coding (improving) code and bugfixing
+p14;1570520523;;;;;;POPUP_OPENED;
+p14;1570520548;Helping;3;1;4;Average;POPUP_CLOSED;
+p14;1570521603;;;;;;POPUP_OPENED;
+p14;1570521711;Design;2;2;2;Average;POPUP_CLOSED;started new part of a project. still need to figure out some things in order to understand the new task. 
+p14;1570525427;;;;;;POPUP_OPENED;
+p14;1570525440;Helping;4;2;3;Average;POPUP_CLOSED;
+p14;1570526532;;;;;;POPUP_OPENED;
+p14;1570526542;Coding;3;2;3;Average;POPUP_CLOSED;
+p14;1570529981;;;;;;POPUP_OPENED;
+p14;1570530002;Meeting;3;2;3;Average;POPUP_CLOSED;
+p14;1570536295;;;;;;POPUP_OPENED;
+p14;1570536307;Meeting;4;1;5;Average;POPUP_CLOSED;
+p14;1570538011;;;;;;POPUP_OPENED;
+p14;1570538024;Documentation;4;2;5;Above average;POPUP_CLOSED;
+p14;1570541636;;;;;;POPUP_OPENED;
+p14;1570541670;Other;4;2;5;Above average;POPUP_CLOSED;I am checking information and looking for information
+p14;1570632158;;;;;;POPUP_OPENED;
+p14;1570632170;Meeting;4;3;5;Average;POPUP_CLOSED;
+p14;1570686760;;;;;;POPUP_OPENED;
+p14;1570686775;Just arrived;4;4;5;Average;POPUP_CLOSED;
+p14;1570690392;;;;;;POPUP_OPENED;
+p14;1570690403;Bugfixing;4;3;4;Average;POPUP_CLOSED;
+p14;1570692647;;;;;;POPUP_OPENED;
+p14;1570692666;Testing;4;3;5;Average;POPUP_CLOSED;
+p14;1570694550;;;;;;POPUP_OPENED;
+p14;1570694566;Bugfixing;4;3;4;Average;POPUP_CLOSED;
+p14;1570694664;;;;;;POPUP_OPENED;
+p14;1570694734;Bugfixing;3;4;2;Below average;POPUP_CLOSED;cannot find the reason by my programm is not running. Thats why I choose 2 in the controlled scale. 
+p14;1570697478;;;;;;POPUP_OPENED;
+p14;1570697493;Design;4;3;5;Average;POPUP_CLOSED;
+p14;1570701094;;;;;;POPUP_OPENED;
+p14;1570701144;Bugfixing;2;4;2;Below average;POPUP_CLOSED;after merge my software will not start and I do not know why
+p14;1570704565;;;;;;POPUP_OPENED;
+p14;1570704573;Bugfixing;3;3;3;Average;POPUP_CLOSED;
+p14;1570705521;;;;;;POPUP_OPENED;
+p14;1570705533;Bugfixing;2;4;2;Very low;POPUP_CLOSED;
+p14;1570706849;;;;;;POPUP_OPENED;
+p14;1570706870;Bugfixing;2;4;2;Below average;POPUP_CLOSED;
+p14;1570710177;;;;;;POPUP_OPENED;
+p14;1570710197;Bugfixing;5;3;5;Average;POPUP_CLOSED;Software is working again. Yes!!!!
+p14;1570713799;;;;;;POPUP_OPENED;
+p14;1570713816;Meeting;4;3;4;Average;POPUP_CLOSED;
+p14;1570716316;;;;;;POPUP_OPENED;
+p14;1570716328;Meeting;4;3;5;Average;POPUP_CLOSED;
+p14;1570775999;;;;;;POPUP_OPENED;
+p14;1570776008;Just arrived;4;3;5;Average;POPUP_CLOSED;
+p14;1570777810;;;;;;POPUP_OPENED;
+p14;1570777825;Email;4;3;5;Above average;POPUP_CLOSED;
+p14;1570782663;;;;;;POPUP_OPENED;
+p14;1570782671;Coding;4;3;5;Average;POPUP_CLOSED;
+p14;1570784965;;;;;;POPUP_OPENED;
+p14;1570784976;Coding;4;3;5;Average;POPUP_CLOSED;
+p14;1570789860;;;;;;POPUP_OPENED;
+p14;1570789880;Coding;4;2;5;Average;POPUP_CLOSED;
+p14;1570795903;;;;;;POPUP_OPENED;
+p14;1570795917;Design;3;4;3;Average;POPUP_CLOSED;
+p14;1570799040;;;;;;POPUP_OPENED;
+p14;1570799055;Coding;4;3;5;Above average;POPUP_CLOSED;
+p14;1570802071;;;;;;POPUP_OPENED;
+p14;1570802134;Coding;2;4;2;Average;POPUP_CLOSED;Short discussion with a colleague
+p14;1571032661;;;;;;POPUP_OPENED;
+p14;1571032672;Just arrived;4;3;5;Average;POPUP_CLOSED;
+p14;1571036724;;;;;;POPUP_OPENED;
+p14;1571036734;Coding;4;4;5;Average;POPUP_CLOSED;
+p14;1571038730;;;;;;POPUP_OPENED;
+p14;1571038742;Administrative tasks;4;3;5;Average;POPUP_CLOSED;
+p14;1571040561;;;;;;POPUP_OPENED;
+p14;1571040578;Coding;4;3;5;Average;POPUP_CLOSED;
+p14;1571042212;;;;;;POPUP_OPENED;
+p14;1571042237;Documentation;4;3;5;Average;POPUP_CLOSED;
+p14;1571043763;;;;;;POPUP_OPENED;
+p14;1571043784;Documentation;4;3;5;Average;POPUP_CLOSED;
+p14;1571046253;;;;;;POPUP_OPENED;
+p14;1571046288;Coding;5;3;5;Average;POPUP_CLOSED;
+p14;1571048915;;;;;;POPUP_OPENED;
+p14;1571048996;Other;4;3;5;Very low;POPUP_CLOSED;last 30 min I was walking during the break. productivity is now very mlow because we had break of 30 min
+p14;1571052315;;;;;;POPUP_OPENED;
+p14;1571052337;Documentation;4;3;5;Average;POPUP_CLOSED;
+p14;1571055491;;;;;;POPUP_OPENED;
+p14;1571055501;Administrative tasks;4;3;5;Average;POPUP_CLOSED;
+p14;1571056606;;;;;;POPUP_OPENED;
+p14;1571056619;Administrative tasks;4;3;4;Average;POPUP_CLOSED;
+p14;1571059844;;;;;;POPUP_OPENED;
+p14;1571059900;Documentation;4;2;5;Average;POPUP_CLOSED;I feel a bit sleepy. 
+p14;1571062674;;;;;;POPUP_OPENED;
+p14;1571062687;Meeting;4;3;4;Average;POPUP_CLOSED;
+p14;1571119037;;;;;;POPUP_OPENED;
+p14;1571119063;Just arrived;4;2;5;Average;POPUP_CLOSED;
+p14;1571123092;;;;;;POPUP_OPENED;
+p14;1571123100;Documentation;4;2;5;Average;POPUP_CLOSED;
+p14;1571128153;;;;;;POPUP_OPENED;
+p14;1571128163;Meeting;4;3;4;Average;POPUP_CLOSED;
+p14;1571131800;;;;;;POPUP_OPENED;
+p14;1571131809;Meeting;4;3;5;Above average;POPUP_CLOSED;
+p14;1571135411;;;;;;POPUP_OPENED;
+p14;1571135430;Other;4;4;5;Average;POPUP_CLOSED;walking during the lunch break
+p14;1571138475;;;;;;POPUP_OPENED;
+p14;1571138483;Coding;4;3;5;Above average;POPUP_CLOSED;
+p14;1571142089;;;;;;POPUP_OPENED;
+p14;1571142097;Coding;4;3;5;Above average;POPUP_CLOSED;
+p14;1571145977;;;;;;POPUP_OPENED;
+p14;1571145982;Coding;4;3;5;Average;POPUP_CLOSED;
+p14;1571205381;;;;;;POPUP_OPENED;
+p14;1571205395;Just arrived;4;4;5;Average;POPUP_CLOSED;
+p14;1571209272;;;;;;POPUP_OPENED;
+p14;1571209280;Coding;4;4;5;Average;POPUP_CLOSED;
+p14;1571213511;;;;;;POPUP_OPENED;
+p14;1571213521;Meeting;4;4;5;Above average;POPUP_CLOSED;
+p14;1571217124;;;;;;POPUP_OPENED;
+p14;1571217139;Coding;4;3;5;Above average;POPUP_CLOSED;
+p14;1571219119;;;;;;POPUP_OPENED;
+p14;1571219126;Coding;4;3;5;Average;POPUP_CLOSED;
+p14;1571221608;;;;;;POPUP_OPENED;
+p14;1571221627;Other;5;4;5;Very low;POPUP_CLOSED;last 30 min walking in the lunch break
+p14;1571222560;;;;;;POPUP_OPENED;
+p14;1571222625;Other;5;4;5;Average;POPUP_CLOSED;the last 15 min I was busy collecting plastic balls. 
+p14;1571224971;;;;;;POPUP_OPENED;
+p14;1571224982;Coding;4;3;3;Average;POPUP_CLOSED;
+p14;1571225307;;;;;;POPUP_OPENED;
+p14;1571225364;Just arrived;4;4;5;Average;POPUP_CLOSED;I forgot to turn on the empatica this morning. Thats why I now clicked again on just arrived. Sorry for that
+p14;1571230897;;;;;;POPUP_OPENED;
+p14;1571230917;Meeting;4;3;3;Below average;POPUP_CLOSED;
+p14;1571234530;;;;;;POPUP_OPENED;
+p14;1571234542;Meeting;4;3;3;Average;POPUP_CLOSED;
+p14;1571291742;;;;;;POPUP_OPENED;
+p14;1571291751;Just arrived;4;4;5;Average;POPUP_CLOSED;
+p14;1571295422;;;;;;POPUP_OPENED;
+p14;1571295436;Meeting;4;3;4;Average;POPUP_CLOSED;
+p14;1571299087;;;;;;POPUP_OPENED;
+p14;1571299097;Coding;4;3;5;Average;POPUP_CLOSED;
+p14;1571302747;;;;;;POPUP_OPENED;
+p14;1571302755;Coding;4;4;5;Average;POPUP_CLOSED;
+p14;1571305466;;;;;;POPUP_OPENED;
+p14;1571305481;Coding;5;3;5;Above average;POPUP_CLOSED;
+p14;1571308105;;;;;;POPUP_OPENED;
+p14;1571308139;Other;4;4;5;Below average;POPUP_CLOSED;last 30 min I was walking during the lunch break
+p14;1571310752;;;;;;POPUP_OPENED;
+p14;1571310762;Administrative tasks;4;2;5;Average;POPUP_CLOSED;
+p14;1571313872;;;;;;POPUP_OPENED;
+p14;1571313949;Learning;3;3;4;Very low;POPUP_CLOSED;I placed the productivity at very low since I am learning and not doing a specific task at the moment -> I am not producting code
+p14;1571317105;;;;;;POPUP_OPENED;
+p14;1571317118;Learning;4;2;3;Very low;POPUP_CLOSED;
+p14;1571322888;;;;;;POPUP_OPENED;
+p14;1571322897;Meeting;4;4;5;Average;POPUP_CLOSED;
